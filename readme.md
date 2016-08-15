@@ -11,4 +11,4 @@ Git has a mutable index called stage
 test for tracking changes.
 Do somthing to saving time.
 
-creating a branch is quick & simple.
+creating a branch is quick and simple.

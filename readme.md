@@ -7,3 +7,4 @@ Here I will change this file for the test of status.
 Then I chnage this file again.
 
 Git has a mutable index called stage
+Git tracks changes.
